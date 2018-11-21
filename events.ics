@@ -1,0 +1,301 @@
+BEGIN:VCALENDAR
+PRODID:ics.py - http://git.io/lLljaA
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20181128T170000Z
+SUMMARY:(Olomoucké Pyvo?)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2018-11-28@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20190306T180000Z
+SUMMARY:(Ostravské Pyvo?)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2019-03-06@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20190116T180000Z
+SUMMARY:(Pražské Pyvo?)
+TRANSP:OPAQUE
+UID:praha-pyvo-2019-01-16@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20190130T170000Z
+SUMMARY:(Olomoucké Pyvo?)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2019-01-30@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20190911T160000Z
+SUMMARY:(Plzeňské Pyvo?)
+TRANSP:OPAQUE
+UID:plzen-pyvo-2019-09-11@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20191113T170000Z
+SUMMARY:(Plzeňské Pyvo?)
+TRANSP:OPAQUE
+UID:plzen-pyvo-2019-11-13@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20190102T180000Z
+SUMMARY:(Ostravské Pyvo?)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2019-01-02@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20190313T170000Z
+SUMMARY:(Plzeňské Pyvo?)
+TRANSP:OPAQUE
+UID:plzen-pyvo-2019-03-13@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20190228T180000Z
+SUMMARY:(Brněnské Pyvo?)
+TRANSP:OPAQUE
+UID:brno-pyvo-2019-02-28@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20190425T170000Z
+SUMMARY:(Brněnské Pyvo?)
+TRANSP:OPAQUE
+UID:brno-pyvo-2019-04-25@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20190220T180000Z
+SUMMARY:(Pražské Pyvo?)
+TRANSP:OPAQUE
+UID:praha-pyvo-2019-02-20@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20181108T075037Z
+LAST-MODIFIED:20181108T075038Z
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20181121T215100Z
+DTSTART:20181201T080000Z
+DTEND:20181201T160000Z
+SUMMARY:Datová analýza v Pythonu
+LOCATION:Moravskoslezské inovační centrum\, Ostrava-Pustkovec\, Technologická 375/3\, 708 00 Ostrava-Pustkovec\, Česko
+TRANSP:OPAQUE
+UID:7g206u6ik6hpfnecvtsv6bqt38@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20181219T180000Z
+SUMMARY:(Pražské Pyvo?)
+TRANSP:OPAQUE
+UID:praha-pyvo-2018-12-19@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20190328T180000Z
+SUMMARY:(Brněnské Pyvo?)
+TRANSP:OPAQUE
+UID:brno-pyvo-2019-03-28@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20190227T170000Z
+SUMMARY:(Olomoucké Pyvo?)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2019-02-27@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20181205T180000Z
+SUMMARY:Ostravské Pyvo – Analýza dat
+LOCATION:V. R. Levský\, Škroupova 1114/4\, Ostrava
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2018-12-05@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20190424T160000Z
+SUMMARY:(Olomoucké Pyvo?)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2019-04-24@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20190508T160000Z
+SUMMARY:(Plzeňské Pyvo?)
+TRANSP:OPAQUE
+UID:plzen-pyvo-2019-05-08@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20190320T180000Z
+SUMMARY:(Pražské Pyvo?)
+TRANSP:OPAQUE
+UID:praha-pyvo-2019-03-20@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20190530T170000Z
+SUMMARY:(Brněnské Pyvo?)
+TRANSP:OPAQUE
+UID:brno-pyvo-2019-05-30@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20190605T170000Z
+SUMMARY:(Ostravské Pyvo?)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2019-06-05@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20190710T160000Z
+SUMMARY:(Plzeňské Pyvo?)
+TRANSP:OPAQUE
+UID:plzen-pyvo-2019-07-10@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20190327T170000Z
+SUMMARY:(Olomoucké Pyvo?)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2019-03-27@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+STATUS:CONFIRMED
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:50.08;14.43
+CREATED:20181009T102702Z
+LAST-MODIFIED:20181119T145927Z
+SEQUENCE:4
+DTSTAMP:20181121T215100Z
+DTSTART:20181203T170000Z
+DTEND:20181203T190000Z
+SUMMARY:PyWorking session #67
+DESCRIPTION:*** Basic EN info: *** We are mostly practical meetup so bring your own laptop.This Python programming session is for girls and boys who are learning Python and already have some basic knowledge (variables\, cycles\, functions\, classes\, lists\, dicts). Questions? You can contact us on info@pyworking.cz *** CZ info: *** Scházíme se ve 14 denních intervalech. Potvrzení účasti na události (RSVP) je nutné a závazné! Notebook s sebou nutností! Studijní skupina pro další začátečníky/ lehce pokročilé v Pythonu (proměnné\, cykly\, funkce\, třídy\, seznamy\, slovníky)\, kteří na meetupech najdou podporu a pomoc s řešením otázek ke svým projektům\, mohou zde sdílet výsledky své práce\, nebo požádat o code review. Můžete si také přijít nechat poradit\, pokud s výběrem vlastního projektu váháte. V této skupině neprobíhá ucelená výuka\; pokud se zajímáte o kurzy Pythonu pro začátečníky\, sledujte skupinu PyLadies Praha https://www.facebook.com/groups/pyladiespraha nebo se podívej na http://pyladies.cz/praha/cznic/ \, kde se lze základy naučit podle materiálů v češtině. Těšíme se na vás!
+LOCATION:Akamai (Karla Engliše 3219/4\, Prague\, Czech Republic)
+URL:https://www.meetup.com/pyworking/events/255388448/
+TRANSP:OPAQUE
+UID:event_vfhllqyxqbfb@meetup.com
+CATEGORIES:Python,Women in Technology,Open Source,Technology Professionals,Computer programming,Web Technology
+END:VEVENT
+BEGIN:VEVENT
+STATUS:CONFIRMED
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:50.08;14.43
+CREATED:20181009T102702Z
+LAST-MODIFIED:20181119T145943Z
+DTSTAMP:20181121T215100Z
+DTSTART:20181217T170000Z
+DTEND:20181217T190000Z
+SUMMARY:PyWorking session #68
+DESCRIPTION:*** Basic EN info: *** We are mostly practical meetup so bring your own laptop.This Python programming session is for girls and boys who are learning Python and already have some basic knowledge (variables\, cycles\, functions\, classes\, lists\, dicts). Questions? You can contact us on info@pyworking.cz *** CZ info: *** Scházíme se ve 14 denních intervalech. Potvrzení účasti na události (RSVP) je nutné a závazné! Notebook s sebou nutností! Studijní skupina pro další začátečníky/ lehce pokročilé v Pythonu (proměnné\, cykly\, funkce\, třídy\, seznamy\, slovníky)\, kteří na meetupech najdou podporu a pomoc s řešením otázek ke svým projektům\, mohou zde sdílet výsledky své práce\, nebo požádat o code review. Můžete si také přijít nechat poradit\, pokud s výběrem vlastního projektu váháte. V této skupině neprobíhá ucelená výuka\; pokud se zajímáte o kurzy Pythonu pro začátečníky\, sledujte skupinu PyLadies Praha https://www.facebook.com/groups/pyladiespraha nebo se podívej na http://pyladies.cz/praha/cznic/ \, kde se lze základy naučit podle materiálů v češtině. Těšíme se na vás!
+LOCATION:Akamai (Karla Engliše 3219/4\, Prague\, Czech Republic)
+URL:https://www.meetup.com/pyworking/events/255388451/
+TRANSP:OPAQUE
+UID:event_vfhllqyxqbwb@meetup.com
+CATEGORIES:Python,Women in Technology,Open Source,Technology Professionals,Computer programming,Web Technology
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20190109T170000Z
+SUMMARY:(Plzeňské Pyvo?)
+TRANSP:OPAQUE
+UID:plzen-pyvo-2019-01-09@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20190515T170000Z
+SUMMARY:(Pražské Pyvo?)
+TRANSP:OPAQUE
+UID:praha-pyvo-2019-05-15@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20181227T180000Z
+SUMMARY:(Brněnské Pyvo?)
+TRANSP:OPAQUE
+UID:brno-pyvo-2018-12-27@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20190417T170000Z
+SUMMARY:(Pražské Pyvo?)
+TRANSP:OPAQUE
+UID:praha-pyvo-2019-04-17@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20190501T170000Z
+SUMMARY:(Ostravské Pyvo?)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2019-05-01@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20181129T180000Z
+SUMMARY:Brněnské Pyvo – Projektové a Okna
+LOCATION:ArtBar Druhý Pád\, Štefánikova 836/1\, Brno
+TRANSP:OPAQUE
+UID:brno-pyvo-2018-11-29@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20181121T115454Z
+LAST-MODIFIED:20181121T115454Z
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20181121T215100Z
+DTSTART;VALUE=DATE:20190614
+DTEND:20190618T000000Z
+SUMMARY:PyCon CZ 2019
+TRANSP:TRANSPARENT
+UID:2j298gbtq5cn1prgv61fqmmk0p@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20190131T180000Z
+SUMMARY:(Brněnské Pyvo?)
+TRANSP:OPAQUE
+UID:brno-pyvo-2019-01-31@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20190206T180000Z
+SUMMARY:(Ostravské Pyvo?)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2019-02-06@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20181208T080000Z
+SUMMARY:Testování
+LOCATION:Barclays\, Na Pankráci 1683/127\, 140 00 Praha
+URL:https://pyworking.cz/workshops/20181208_Testovani
+TRANSP:OPAQUE
+UID:20181208_Testovani@pyworking.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20190403T170000Z
+SUMMARY:(Ostravské Pyvo?)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2019-04-03@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T215100Z
+DTSTART:20181226T170000Z
+SUMMARY:(Olomoucké Pyvo?)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2018-12-26@pyvo.cz
+END:VEVENT
+END:VCALENDAR
